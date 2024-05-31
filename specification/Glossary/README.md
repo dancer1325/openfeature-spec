@@ -1,0 +1,4 @@
+- User Roles
+    - Application Author
+    - Application Integrator
+        - := developer / configures OR sets an application OR service — to use — feature flags SDK
